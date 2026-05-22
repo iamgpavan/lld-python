@@ -6,8 +6,8 @@ Code examples for the **LLD Chronicles** — a Medium series on Low-Level Design
 
 | Principle | Folder | Article |
 |-----------|--------|---------|
-| S — Single Responsibility | [solid/srp/](solid/srp/) | Coming soon |
-| O — Open/Closed | solid/ocp/ | Coming soon |
+| S — Single Responsibility | [solid/srp/](solid/srp/) | [Published ↗](https://medium.com/@pavankumarmasters/the-s-in-solid-single-responsibility-principle-in-python-lld-chronicles-1-03ae1bcc9678) |
+| O — Open/Closed | [solid/ocp/](solid/ocp/) | Coming soon |
 | L — Liskov Substitution | solid/lsp/ | Coming soon |
 | I — Interface Segregation | solid/isp/ | Coming soon |
 | D — Dependency Inversion | solid/dip/ | Coming soon |
