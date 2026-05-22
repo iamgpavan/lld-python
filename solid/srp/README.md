@@ -18,7 +18,7 @@ python good_example.py
 
 ## Full Article
 
-*LLD Chronicles #1 — coming soon on Medium*
+[The S in SOLID: Single Responsibility Principle in Python](https://medium.com/@pavankumarmasters/the-s-in-solid-single-responsibility-principle-in-python-lld-chronicles-1-03ae1bcc9678)
 
 ---
 
