@@ -10,7 +10,7 @@ Code examples for the **LLD Chronicles** — a Medium series on Low-Level Design
 | O — Open/Closed | [solid/ocp/](solid/ocp/) | Coming soon |
 | L — Liskov Substitution | [solid/lsp/](solid/lsp/) | Coming soon |
 | I — Interface Segregation | [solid/isp/](solid/isp/) | Coming soon |
-| D — Dependency Inversion | solid/dip/ | Coming soon |
+| D — Dependency Inversion | [solid/dip/](solid/dip/) | Coming soon |
 
 ## How to Use
 
